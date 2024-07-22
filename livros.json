@@ -1,0 +1,64 @@
+[
+  {
+    "titulo": "Cem Anos de Solidão",
+    "ano_publicacao": 1967,
+    "autor": {
+      "nome": "Gabriel Garcia Marquez",
+      "data_nascimento": "1927-03-06",
+      "nacionalidade": "Colombiana"
+    },
+    "editora": {
+      "nome": "HarperCollins",
+      "pais": "Estados Unidos",
+      "ano_fundacao": 1989
+    },
+    "id": "83608005-116e-4835-bcd7-8e9fafcc13b5"
+  },
+  {
+    "titulo": "Cem Anos de Solidão",
+    "ano_publicacao": 1967,
+    "autor": {
+      "nome": "Gabriel Garcia Marquez",
+      "data_nascimento": "1927-03-06",
+      "nacionalidade": "Colombiana"
+    },
+    "editora": {
+      "nome": "HarperCollins",
+      "pais": "Estados Unidos",
+      "ano_fundacao": 1989
+    },
+    "id": "c1db76fa-b174-4d7a-aa4a-3a46c0dbe80d"
+  },
+  {
+    "nome": "HarperCollins",
+    "pais": "Estados Unidos",
+    "ano_fundacao": 1989,
+    "id": "dda046bb-4c83-4129-84d4-273973a411fb"
+  },
+  {
+    "nome": "HarperCollins",
+    "pais": "Estados Unidos",
+    "ano_fundacao": 1989,
+    "id": "47cfeace-18dc-4dec-a02d-9ac26313deb0"
+  },
+  {
+    "titulo": "Cem Anos de Solidão",
+    "ano_publicacao": 1967,
+    "id_autor": 1,
+    "id_editora": 1,
+    "id": "d1b89678-fb43-4f80-8096-66ce50f04c48"
+  },
+  {
+    "titulo": "Cem Anos de Solidão",
+    "ano_publicacao": 1967,
+    "id_autor": 1,
+    "id_editora": 1,
+    "id": "6c501b71-ec1d-46c5-a0e7-ef5fb098304a"
+  },
+  {
+    "titulo": "Cem Anos de Solidão",
+    "ano_publicacao": 1967,
+    "id_livro": 1,
+    "id": "1783ded5-ea56-4e47-b772-035b2c2ee7b9"
+  }
+]
